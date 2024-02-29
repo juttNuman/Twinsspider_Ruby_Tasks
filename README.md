@@ -1,2 +1,2 @@
 # Twinsspider_Ruby_Tasks
-I have implemented the two ruby programs.
+I have implemented two ruby programs.
